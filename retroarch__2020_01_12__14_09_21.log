@@ -1,0 +1,360 @@
+[INFO] Using content: C:\Users\Jaeger\Documents\ROMs\GameCube\Mario Kart Double Dash GameCube\Mario Kart Double Dash.iso.
+[INFO] arg #0: retroarch
+[INFO] arg #1: C:\Users\Jaeger\Documents\ROMs\GameCube\Mario Kart Double Dash GameCube\Mario Kart Double Dash.iso
+[INFO] arg #2: -s
+[INFO] arg #3: C:\Users\Jaeger\AppData\Roaming\RetroArch\saves
+[INFO] arg #4: -S
+[INFO] arg #5: C:\Users\Jaeger\AppData\Roaming\RetroArch\states
+[INFO] arg #6: -c
+[INFO] arg #7: C:\Users\Jaeger\AppData\Roaming\RetroArch\retroarch.cfg
+[INFO] arg #8: -L
+[INFO] arg #9: C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll
+[INFO] arg #10: -v
+[INFO] Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] Unloading game..
+[INFO] Unloading core..
+[INFO] Unloading core symbols..
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] Set config file to : C:\Users\Jaeger\AppData\Roaming\RetroArch\retroarch.cfg
+[INFO] RetroArch 1.8.2 (Git b6a45645d8)
+[INFO] Redirecting save file to "C:\Users\Jaeger\AppData\Roaming\RetroArch\saves\Mario Kart Double Dash.srm".
+[INFO] Redirecting savestate to "C:\Users\Jaeger\AppData\Roaming\RetroArch\states\Mario Kart Double Dash.state".
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz
+[INFO] Capabilities:  MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE4.2 AES AVX
+[INFO] Built: Dec 25 2019
+[INFO] Version: 1.8.2
+[INFO] Git: b6a45645d8
+[INFO] =================================================
+[INFO] Loading dynamic libretro core from: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+Error(s): The specified module could not be found.
+
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] Redirecting save file to "C:\Users\Jaeger\AppData\Roaming\RetroArch\saves\Mario Kart Double Dash.srm".
+[INFO] Redirecting savestate to "C:\Users\Jaeger\AppData\Roaming\RetroArch\states\Mario Kart Double Dash.state".
+[INFO] Version of libretro API: 1
+[INFO] Compiled against API: 1
+[INFO] [Audio]: Set audio input rate to: 30000.00 Hz.
+[INFO] [Video]: Video @ fullscreen
+[INFO] [GL]: Found GL context: wgl
+[INFO] [GL]: Detecting screen resolution 1360x768.
+[INFO] [WGL] extensions: WGL_EXT_depth_float WGL_ARB_buffer_region WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_pixel_format WGL_ARB_pbuffer WGL_EXT_extensions_string WGL_EXT_swap_control WGL_ARB_multisample WGL_ARB_pixel_format_float WGL_ARB_fra
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [GL]: Vendor: Intel, Renderer: Intel(R) HD Graphics 520.
+[INFO] [GL]: Version: 4.6.0 - Build 26.20.100.7263.
+[INFO] [GL]: Using resolution 1360x768
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[INFO] [GLSL]: Checking GLSL shader support ...
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] Setting up menu pipeline shaders for XMB ... 
+[INFO] [GLSL]: Compiling ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling simple ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling modern snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling bokeh shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snowflake shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[INFO] [GL]: Using GL_RGB565 for texture uploads.
+[INFO] [DINPUT]: Enumerating joypads ...
+[INFO] [DINPUT]: Device #0 PID: {09CC} VID:{054C}
+[WARN] [DINPUT]: Strong rumble unavailable.
+[WARN] [DINPUT]: Weak rumble unavailable.
+[INFO] [DINPUT]: Done enumerating joypads ...
+[INFO] [Joypad]: Found joypad driver: "dinput".
+[INFO] [Autoconf]: 142 profiles found.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Video]: Found display server: win32
+[INFO] [XAudio2]: Requesting 64 ms latency, using 64 ms latency.
+[INFO] [Autoconf]: selected configuration: C:\Users\Jaeger\AppData\Roaming\RetroArch\autoconfig\xinput\Wireless Controller.cfg
+[INFO] [Menu]: Found menu display driver: "gl".
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Error(s): The specified module could not be found.
+
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [LED]: LED driver = 'null' 0000000000B9AF20
+[INFO] [MIDI]: Initializing ...
+[INFO] [MIDI]: Input disabled.
+[INFO] [MIDI]: Output disabled.
+[INFO] [MIDI]: Initialized "winmm" driver.
+[INFO] SRAM will not be saved.
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_music_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_video_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_image_history.lpl].
+[INFO] Loading favorites file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_favorites.lpl].
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Error(s): The specified module could not be found.
+
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] Using content: C:\Users\Jaeger\Documents\ROMs\GameCube\Mario Kart Double Dash GameCube\Mario Kart Double Dash.iso.
+[INFO] arg #0: retroarch
+[INFO] arg #1: C:\Users\Jaeger\Documents\ROMs\GameCube\Mario Kart Double Dash GameCube\Mario Kart Double Dash.iso
+[INFO] arg #2: -s
+[INFO] arg #3: C:\Users\Jaeger\AppData\Roaming\RetroArch\saves
+[INFO] arg #4: -S
+[INFO] arg #5: C:\Users\Jaeger\AppData\Roaming\RetroArch\states
+[INFO] arg #6: -c
+[INFO] arg #7: C:\Users\Jaeger\AppData\Roaming\RetroArch\retroarch.cfg
+[INFO] Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] Unloading game..
+[INFO] Unloading core..
+[INFO] Unloading core symbols..
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] Set config file to : C:\Users\Jaeger\AppData\Roaming\RetroArch\retroarch.cfg
+[INFO] RetroArch 1.8.2 (Git b6a45645d8)
+[INFO] Redirecting save file to "C:\Users\Jaeger\AppData\Roaming\RetroArch\saves\Mario Kart Double Dash.srm".
+[INFO] Redirecting savestate to "C:\Users\Jaeger\AppData\Roaming\RetroArch\states\Mario Kart Double Dash.state".
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz
+[INFO] Capabilities:  MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE4.2 AES AVX
+[INFO] Built: Dec 25 2019
+[INFO] Version: 1.8.2
+[INFO] Git: b6a45645d8
+[INFO] =================================================
+[INFO] Loading dynamic libretro core from: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+Error(s): The specified module could not be found.
+
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] Redirecting save file to "C:\Users\Jaeger\AppData\Roaming\RetroArch\saves\Mario Kart Double Dash.srm".
+[INFO] Redirecting savestate to "C:\Users\Jaeger\AppData\Roaming\RetroArch\states\Mario Kart Double Dash.state".
+[INFO] Version of libretro API: 1
+[INFO] Compiled against API: 1
+[INFO] [Audio]: Set audio input rate to: 30000.00 Hz.
+[INFO] [Video]: Video @ fullscreen
+[INFO] [GL]: Found GL context: wgl
+[INFO] [GL]: Detecting screen resolution 1360x768.
+[INFO] [WGL] extensions: WGL_EXT_depth_float WGL_ARB_buffer_region WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_pixel_format WGL_ARB_pbuffer WGL_EXT_extensions_string WGL_EXT_swap_control WGL_ARB_multisample WGL_ARB_pixel_format_float WGL_ARB_fra
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [GL]: Vendor: Intel, Renderer: Intel(R) HD Graphics 520.
+[INFO] [GL]: Version: 4.6.0 - Build 26.20.100.7263.
+[INFO] [GL]: Using resolution 1360x768
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[INFO] [GLSL]: Checking GLSL shader support ...
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] Setting up menu pipeline shaders for XMB ... 
+[INFO] [GLSL]: Compiling ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling simple ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling modern snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling bokeh shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snowflake shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] Shader log: WARNING: 1:2: '' :  #version directive missing
+
+
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[INFO] [GL]: Using GL_RGB565 for texture uploads.
+[INFO] [DINPUT]: Enumerating joypads ...
+[INFO] [DINPUT]: Device #0 PID: {09CC} VID:{054C}
+[WARN] [DINPUT]: Strong rumble unavailable.
+[WARN] [DINPUT]: Weak rumble unavailable.
+[INFO] [DINPUT]: Done enumerating joypads ...
+[INFO] [Joypad]: Found joypad driver: "dinput".
+[INFO] [Autoconf]: 142 profiles found.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Video]: Found display server: win32
+[INFO] [XAudio2]: Requesting 64 ms latency, using 64 ms latency.
+[INFO] [Autoconf]: selected configuration: C:\Users\Jaeger\AppData\Roaming\RetroArch\autoconfig\xinput\Wireless Controller.cfg
+[INFO] [Menu]: Found menu display driver: "gl".
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Error(s): The specified module could not be found.
+
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [LED]: LED driver = 'null' 0000000000B9AF20
+[INFO] [MIDI]: Initializing ...
+[INFO] [MIDI]: Input disabled.
+[INFO] [MIDI]: Output disabled.
+[INFO] [MIDI]: Initialized "winmm" driver.
+[INFO] SRAM will not be saved.
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_music_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_video_history.lpl].
+[INFO] Loading history file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_image_history.lpl].
+[INFO] Loading favorites file: [C:\Users\Jaeger\AppData\Roaming\RetroArch\content_favorites.lpl].
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[ERROR] Failed to open libretro core: "C:\Users\Jaeger\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[ERROR] Error(s): The specified module could not be found.
+
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [config] Saved new config to "C:\Users\Jaeger\AppData\Roaming\RetroArch\retroarch.cfg".
+[INFO] Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] Unloading game..
+[INFO] Unloading core..
+[INFO] Unloading core symbols..
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
